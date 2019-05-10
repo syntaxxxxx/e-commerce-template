@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "559547843436",
+    "firebase_url": "https://market-place-9c619.firebaseio.com",
+    "project_id": "market-place-9c619",
+    "storage_bucket": "market-place-9c619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559547843436:android:6cd6ade92f0b08e7",
+        "android_client_info": {
+          "package_name": "com.fiqri.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559547843436-mrqbvmvvrnr186hotinqi2bapvqh9k66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUs6Rw1PABqvxkr_3Ehu-ObeSl8v9j76E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
